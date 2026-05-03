@@ -9,4 +9,4 @@ This is a simple calculator app built using Kotlin and XML as part of the Syntec
 - Clean and simple UI
 
 ## Author
-Your Name
+Abdulaziz Saleh
