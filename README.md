@@ -1,2 +1,12 @@
-# Syntecxhub_CalculatorApp
-A simple Calculator App built with Kotlin and XML for the Syntecxhub Android Development Internship. It supports basic arithmetic operations and demonstrates clean UI and logic separation.
+# Syntecxhub Calculator App
+
+This is a simple calculator app built using Kotlin and XML as part of the Syntecxhub Android Development Internship.
+
+## Features
+- Basic arithmetic operations (+, -, *, /)
+- Clear button (C)
+- Error handling (divide by zero)
+- Clean and simple UI
+
+## Author
+Your Name
